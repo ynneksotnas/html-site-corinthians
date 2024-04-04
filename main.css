@@ -1,17 +1,43 @@
-h1 {
+.sccp{
     background-color: black;
     color:white;
+    padding: 60px;
+    text-align: center;
+    font-size: 200%;
 
 }
-.ads {
-    background-color: lightgrey;
-    color: black;
-    font-size: x-large;
+h1 {
+    font-size: 130%;
 }
+h2 {
+    font-size: xx-large;
+    width: 400px;
+    margin:auto
 
-#devfront {
-    color: black;
-    background-color: lightgray;
-    font-size: x-large;
+}
+.titulo{
     
+}
+li {
+    font-size: 120%;
+}
+p {
+    font-size: 120%;
+}
+#container{
+    display: flex;
+    align-items: center;
+    
+}
+#Sobre1{
+    width: 250%;
+    margin-top: 30px;
+}
+#Hino1{
+    width: 250%;
+    margin-top: 30px;
+}
+#titulos1{
+    width: 250%;
+    margin-top: 75px;
 }
