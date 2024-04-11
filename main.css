@@ -1,17 +1,17 @@
+
 .sccp{
     background-color: black;
     color:white;
-    padding: 10px;
+    padding: 25px;
     text-align: center;
     font-size: 200%;
     margin: 0;
-
 }
 #menu{
-    margin: 0;
-    background-color: black;
-    text-align: center;
+    margin: 0px;
+    text-align:center;
     list-style: none;
+    color: black;
 }
 #menu li {
     display: inline-block
@@ -28,7 +28,7 @@ h2 {
     margin:auto
 
 }
-.titulo{
+#titulo{
     
 }
 li {
@@ -38,19 +38,46 @@ p {
     font-size: 120%;
 }
 #container{
-    display: flex;
-    align-items:baseline
-    
+    align-items:end
+}
+.imagem1{
+    float: right;
+    margin-left: 3%;
+    padding: 5px;
+    width: 500px;
+    height: 250px;
+}
+.imagem2{
+    float: left;
+    width: 800px;
+    height: 450px;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
 }
 #Sobre1{
-    width: 100%;
+    width: 20%;
     margin-top: 5px;
+    font-size: 120%;
 }
 #Hino1{
     width: 20%;
     margin-top: 5px;
+    font-size: 120%;
 }
 #titulos1{
-    width: 100%;
+    width: 20%;
+    margin-top: 5px;
+    font-size: 120%;
+}
+#lista2{
+    font-size: 110%;
+}
+#hino2{
+    font-size: 98%;
     
+}
+#sobre2{
+    font-size: 110%;
+    width: 75%;
 }
