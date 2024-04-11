@@ -1,23 +1,30 @@
-
 .sccp{
     background-color: black;
     color:white;
-    padding: 25px;
+    padding: 35px;
     text-align: center;
-    font-size: 200%;
-    margin: 0;
+    font-size: 250%;
+    margin: 6px;
+    margin-top: -2%;
 }
 #menu{
-    margin: 0px;
+    margin: 2px;
     text-align:center;
-    list-style: none;
     color: black;
 }
 #menu li {
-    display: inline-block
+    display: inline-block;
+    color: black;
+    font-size: 155%;
+    margin-left: 4%;
 }
 #menu li a {
-    color: white;
+    color: black;
+    margin: left 0%;
+    margin-left: -30%;
+}
+.fa-solid {
+    margin-left: 300%;
 }
 h1 {
     font-size: 130%;
@@ -26,10 +33,6 @@ h2 {
     font-size: xx-large;
     width: 400px;
     margin:auto
-
-}
-#titulo{
-    
 }
 li {
     font-size: 120%;
@@ -37,47 +40,58 @@ li {
 p {
     font-size: 120%;
 }
-#container{
-    align-items:end
-}
 .imagem1{
     float: right;
-    margin-left: 3%;
+    margin-left: 2%;
+    margin-right: -20%;
     padding: 5px;
-    width: 500px;
-    height: 250px;
+    width: 450px;
+    height: 270px;
 }
 .imagem2{
     float: left;
-    width: 800px;
+    width: 600px;
     height: 450px;
     margin-top: 2%;
     margin-left: 4%;
     margin-right: 4%;
 }
+.imagem3{
+    width: 75px;
+    height: 75px;
+    float: right;
+}
+.imagem33{
+    width: 75px;
+    height: 75px;
+    float: left;
+}
 #Sobre1{
     width: 20%;
     margin-top: 5px;
     font-size: 120%;
+    margin-left: 2%;
 }
 #Hino1{
     width: 20%;
     margin-top: 5px;
     font-size: 120%;
+    margin-left: 2%;
 }
 #titulos1{
     width: 20%;
     margin-top: 5px;
     font-size: 120%;
+    margin-left: 2%;
 }
 #lista2{
     font-size: 110%;
+    margin-top: 15px;
 }
 #hino2{
-    font-size: 98%;
-    
+    font-size: 100,9%;
 }
 #sobre2{
     font-size: 110%;
-    width: 75%;
+    width: 72%;
 }
